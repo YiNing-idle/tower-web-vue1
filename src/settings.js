@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'PMP',
+  title: 'TOWER',
 
   /**
    * @type {boolean} true | false
