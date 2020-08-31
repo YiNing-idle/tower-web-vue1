@@ -554,7 +554,5 @@ export default {
 
   margin-right: 30px;
 }
-body{
-  color: #7d7d7f;
-}
+
 </style>
